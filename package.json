@@ -1,0 +1,19 @@
+{
+  "name": "probafeladat",
+  "version": "1.0.0",
+  "description": "Avatao 1 hetes proba feladat.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-brute": "^1.0.1",
+    "mongoose": "^5.2.5",
+    "request": "^2.87.0"
+  }
+}
